@@ -1,0 +1,5 @@
+/*  AQUI NESSE CSS VOCÊ COLOCA OS ESTILOS DA PÀGINA PRINCIPAL    */
+body {
+    background-color: rgb(252, 161, 246);
+    color: var(--primary-color);
+}

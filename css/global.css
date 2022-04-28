@@ -1,0 +1,5 @@
+/* AQUI VAMOS CONFIGURAR VARIAVEIS DO CSS */
+
+:root {
+    --primary-color:    rgb(71, 71, 133);  /*  TODAS AS CORES QUE FORMOS USAR IREMOS GUARDA_LAS EM VARIAVEIS   */
+}
